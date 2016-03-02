@@ -10,6 +10,7 @@ namespace myfirstrepo
     {
         static void Main(string[] args)
         {
+            int age = 6;
         }
     }
 }
